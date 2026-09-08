@@ -43,8 +43,5 @@ Une attention particulière a été portée à l'accessibilité cognitive et sen
 - **liens_maquettes_figma.pdf** : liens vers la maquette et le prototype Figma
 
 #### *Outils*
-Figma · UX/UI Design · Zoning · Prototypage · Accessibilité numérique
-
-## Projet de groupe
-
-Projet réalisé en groupe dans le cadre du M1 MIASHS – Technologie et Handicap.
+Figma · UX/UI Design · Zoning · Prototypage · Accessibilité numérique <br>
+**Projet réalisé en groupe dans le cadre du M1 MIASHS – Technologie et Handicap**
