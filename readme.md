@@ -1,6 +1,6 @@
 ## Moodtrack
 
-Projet de conception UX/UI réalisé dans le cadre du M1 MIASHS – Technologie et Handicap à l'Université Paris 8.<br>
+Projet de conception UX/UI réalisé en groupe dans le cadre du M1 MIASHS – Technologie et Handicap à l'Université Paris 8.<br>
 Moodtrack est une application de gestion quotidienne et de régulation émotionnelle conçue pour répondre notamment aux besoins de personnes ayant des besoins sensoriels et cognitifs particuliers.
 
 #### *Objectifs*
@@ -44,4 +44,3 @@ Une attention particulière a été portée à l'accessibilité cognitive et sen
 
 #### *Outils*
 Figma · UX/UI Design · Zoning · Prototypage · Accessibilité numérique <br>
-**Projet réalisé en groupe dans le cadre du M1 MIASHS – Technologie et Handicap**
